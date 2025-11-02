@@ -20,3 +20,10 @@ dist
 
 # VSCode settings
 .vscode
+
+# Python
+memos-python-client/venv/
+memos-python-client/memos_client.egg-info/
+memos-python-client/build/
+memos-python-client/dist/
+**/__pycache__/
